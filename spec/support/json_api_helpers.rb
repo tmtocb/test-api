@@ -4,7 +4,7 @@ module JsonApiHelpers
   end
 
   def json_data
-    json_data = json['data']
+    json['data']
   end
 end      
       
